@@ -1,1 +1,2 @@
-dedupe: deploy/dedupe.sh
+dedupe: ./node_modules/pm2/bin/pm2-runtime ./test.js
+ 
