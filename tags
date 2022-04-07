@@ -735,7 +735,6 @@ funding	package-lock.json	/^      "funding": {$/;"	o	object:packages.node_module
 funding	package-lock.json	/^      "funding": {$/;"	o	object:packages.node_modules/systeminformation
 g	package-lock.json	/^        "g": "^2.0.1",$/;"	s	object:packages..dependencies
 g	package-lock.json	/^    "g": {$/;"	o	object:dependencies
-g	package.json	/^    "g": "^2.0.1",$/;"	s	object:dependencies
 get-uri	package-lock.json	/^        "get-uri": "3",$/;"	s	object:dependencies.pac-proxy-agent.requires
 get-uri	package-lock.json	/^        "get-uri": "3",$/;"	s	object:packages.node_modules/pac-proxy-agent.dependencies
 get-uri	package-lock.json	/^    "get-uri": {$/;"	o	object:dependencies
