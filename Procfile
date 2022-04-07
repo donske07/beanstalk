@@ -1,1 +1,1 @@
-dedupe: ./deploy/dedupe.sh
+dedupe: deploy/dedupe.sh
