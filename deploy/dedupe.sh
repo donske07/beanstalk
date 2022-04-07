@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "here"
 whoami
-exec npx pm2 start test.js
+node ./node_modules/pm2/bin/pm2-runtime test.js
