@@ -1,2 +1,1 @@
-web: node ./test.js
- 
+web: node test.js
